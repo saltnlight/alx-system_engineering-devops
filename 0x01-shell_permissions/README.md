@@ -8,3 +8,4 @@
 7-everybody: adds execution permission to owner, group owner and other users<br>
 8-James_Bond: sets no permission for user and owner, but all permissions for others<br>
 9-John_Doe: sets mod on a file to -rwxr-x-wx<br>
+10-mirror_permissions: change hello's mod to be the same as olleh's<<br>
