@@ -11,4 +11,5 @@
 10-mirror_permissions: change hello's mod to be the same as olleh's<<br>
 11-directories_permission: adds execute permit to all subdirectories, for user, group and others<br>
 12-directories_permission: creates dir with specified permission<br>
-13-change_group: changes the group of file hello
+13-change_group: changes the group of file hello<br>
+100-change_owner_and_group: changes the owner and group of all files and dir in the working dir<br>
