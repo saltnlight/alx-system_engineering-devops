@@ -10,3 +10,5 @@
 9-John_Doe: sets mod on a file to -rwxr-x-wx<br>
 10-mirror_permissions: change hello's mod to be the same as olleh's<<br>
 11-directories_permission: adds execute permit to all subdirectories, for user, group and others<br>
+12-directories_permission: creates dir with specified permission<br>
+
