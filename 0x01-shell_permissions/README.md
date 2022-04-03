@@ -13,3 +13,4 @@
 12-directories_permission: creates dir with specified permission<br>
 13-change_group: changes the group of file hello<br>
 100-change_owner_and_group: changes the owner and group of all files and dir in the working dir<br>
+101-symbolic_link_permissions: a script that changes owner and group for a file referenced by a symbolic link<br> 
