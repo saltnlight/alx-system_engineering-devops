@@ -1,4 +1,4 @@
-0-iam_betty: switches the current user to betty<br>
+0-Xiam_betty: switches the current user to betty<br>
 1-who_am_i: prints the username of the current user<br>
 2-groups: prints all the groups the current user is part of<br>
 3-new_owner: changes the owner of a file<br>
@@ -9,3 +9,4 @@
 8-James_Bond: sets no permission for user and owner, but all permissions for others<br>
 9-John_Doe: sets mod on a file to -rwxr-x-wx<br>
 10-mirror_permissions: change hello's mod to be the same as olleh's<<br>
+11-directories_permission: adds execute permit to all subdirectories, for user, group and others<br>
