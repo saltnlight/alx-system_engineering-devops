@@ -6,3 +6,4 @@
 5-local_variables: Create a script that creates a new local variable.
 6-create_local_variable: Create a script that creates a new local variable.
 7-create_global_variables: Create a script that creates a new global variable.
+8-true_knowledge: a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
