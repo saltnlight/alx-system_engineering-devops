@@ -5,3 +5,4 @@
 4. display last 10 lines of a file<br>
 5. display first 10 lines of a file<br>
 6. a script that displays the thrid line of a file
+7. creates a weirdly named file
