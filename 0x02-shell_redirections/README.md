@@ -8,3 +8,4 @@
 7. creates a weirdly named file
 8. a script that writes into a file the result  of another command
 9. a script that duplicates the last line of a file
+10. a script that deletes all regular js files within the current dir and its sub-dirs
